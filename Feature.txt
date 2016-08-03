@@ -1,0 +1,36 @@
+
+Features which could contribute to the project:
+        -Visual representation of the game state
+        -Play against computer player
+        -Play against friends
+        -Play against friends over the internet (Difficult, but possibly achieveable?)
+        -Click a column to drop a disc
+        -Save and load games
+        -Get help
+        -Read the rules
+        -Get feedback on illegal moves
+        -Undo moves (More discussion needed, could an undo feature promote a less fun experience?)
+        -Record game and view game history
+        -Get hints
+        -Menus to simplify usage
+        -Be notified when someone wins
+        -Be provided quit/new game options at the end of a game
+        -Play on differing screen sizes
+        -Resize board and window
+        -User interface hints (eg change colour of circle which will be taken when mouse is hovering over a column)
+
+User Specific features:
+    Accessibility:
+        -Have option to change the colour of the discs
+    Novice/Intermediate/Expert:
+        -Change difficult of AI player to match skill level
+        -Offer hints if user is stuck on a move
+
+Back end features:
+        -Hold game state and differentiate between players
+        -Know whose move it is
+        -Check if someone has won
+        -Know which moves can be made
+        -Check that a move is legal
+        -Make computer moves if playing against AI
+        -Draw game state in user interface
