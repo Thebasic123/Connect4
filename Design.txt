@@ -1,0 +1,9 @@
+In this project, Agent class is the main class for player side,
+which includes Computer player and human player. 
+
+Players send move through Agent to backend class.
+Then Grid class changes to corresponding shape.
+
+GUIGame is the main class for this entire project, it contains all the information.
+
+Button-clicking events change the data of related classes.
